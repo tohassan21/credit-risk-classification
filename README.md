@@ -8,5 +8,5 @@ Sources:
 - The data used is from the provided lending_data.csv file in the Resources folder within the Credit_Risk folder.
 
 How to run:
-- Open the jupyter notebook file titled credit_risk_classification.ipynb.
+- Open the jupyter notebook file titled credit_risk_classification.ipynb in the Credit_Risk folder.
 - Run the entire file (all of the cells).
